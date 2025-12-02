@@ -1,4 +1,5 @@
 """
+# Implementación del algoritmo de Prim para el Proyecto Final
 algoritmos/prim.py
 
 Implementación del algoritmo de Prim para generar
