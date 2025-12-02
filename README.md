@@ -4,8 +4,8 @@
 
 ### **Análisis de Algoritmos -- Proyecto Final**
 
-**Estudiante:** Byron Rodolfo Maldonado Palacios\
-**Carnet:** 202300076\
+**Estudiante:** JUANITO ALGORITMOS\
+**Carnet:** 0000000\
 **Fecha:** Diciembre 2024
 
 ------------------------------------------------------------------------
