@@ -1,4 +1,5 @@
 """
+# Implementación del algoritmo de Dijkstra para rutas más cortas
 algoritmos/dijkstra.py
 
 Implementación del algoritmo de Dijkstra para rutas más cortas
