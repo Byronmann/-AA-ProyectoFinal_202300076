@@ -1,4 +1,5 @@
 """
+# Implementación de Huffman para codificación óptima
 algoritmos/huffman.py
 
 Implementación del algoritmo de Huffman para codificación óptima.
