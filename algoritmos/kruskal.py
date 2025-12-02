@@ -1,4 +1,5 @@
 """
+# Implementación del algoritmo de Kruskal para el Proyecto Final
 algoritmos/kruskal.py
 
 Implementación del algoritmo de Kruskal para generar
